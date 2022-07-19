@@ -21,4 +21,4 @@ Ensure that both of these mods are removed from the server mods folder before st
 (If you do not remove these mods it will result in a crash.)
 
 Start the server and then stop the server after the world generates.\
-After generating the world, insert the "paraglider-server.toml" file into the serverconfig folder within the server world save file.
+After generating the world, insert the "paraglider-server.toml" and "twilightforest-common.toml" files into the serverconfig folder within the server world save file.
