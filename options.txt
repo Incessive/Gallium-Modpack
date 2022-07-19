@@ -19,7 +19,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5023474178403756
+mouseSensitivity:0.5
 fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -258,7 +258,7 @@ key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.left.alt
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
