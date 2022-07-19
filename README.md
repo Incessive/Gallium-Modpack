@@ -1,16 +1,15 @@
-# Gallium-Modpack
-Balanced magic/tech/create focused modpack. (somewhat)
+#### https://github.com/Incessive/Gallium-Modpack
+#### A somewhat balanced magic/tech/create focused modpack.
+<br>
 
 # Overview
-
-## Setup
-
+## Singleplayer Setup:
 ### To make the installation process easier, I recommend using cubeLauncher: https://github.com/o7q/cubeLauncher
 After downloading the modpack from this repository, extract the archive and drop & drag the contents onto the cubeLauncher window.\
 To configure a world: Insert the "paraglider-server.toml" file into the serverconfig folder within your world save file.
+<br>
 
 ## Multiplayer Setup:
-
 After downloading the modpack from this repository, inside the ".cube" folder run the forge .jar executable installer.\
 Select install server and choose an empty directory.\
 Drag the mods folder into the server directory.\
