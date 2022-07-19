@@ -6,7 +6,7 @@
 ## Singleplayer Setup:
 ### To make the installation process easier, I recommend using cubeLauncher: https://github.com/o7q/cubeLauncher
 After downloading the modpack from this repository, extract the archive and drop & drag the contents onto the cubeLauncher window.\
-To configure a world: Insert the "paraglider-server.toml" file into the serverconfig folder within your world save file.
+To configure a world: Insert the "paraglider-server.toml" and "twilightforest-common.toml" files into the serverconfig folder within your world save file.
 <br>
 
 ## Multiplayer Setup:
