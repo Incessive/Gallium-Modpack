@@ -1,0 +1,3 @@
+- Remove Nature's Aura
+- Configure Spice of Life to not have hp limit (or make limit bigger)
+- Add Open Partys and Claims mods
