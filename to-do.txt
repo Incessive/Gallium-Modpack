@@ -4,3 +4,4 @@
 - Add Attribute Fix
 - Edit QuarkOddities Config
 - Add OpenBlock's Elevators
+- Remove Serene Seasons
