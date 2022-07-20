@@ -1,3 +1,5 @@
 - Add FastLeafDecay
 - Add AppleSkin
+- Add Armor Toughness Bar
+- Add Attribute Fix
 - Edit QuarkOddities Config
