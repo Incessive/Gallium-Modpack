@@ -1,7 +1,1 @@
-- Add FastLeafDecay
-- Add AppleSkin
-- Add Armor Toughness Bar
-- Add Attribute Fix
 - Edit QuarkOddities Config
-- Add OpenBlock's Elevators
-- Remove Serene Seasons
