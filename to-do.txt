@@ -1,1 +1,4 @@
 - Get rid of Matrix Enchanting from Quark
+- Add OmegaMute 
+- Remove Void Totem
+- (?) Remove Apotheosis Tomes
