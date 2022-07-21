@@ -4,4 +4,4 @@
 - (?) Remove Apotheosis Tomes
 - (?) Add Dire's Mining Gadgets
 - Remove Tom's Simple Storage and Add new storage mod 
-	- (Refined Storage)
+	- (Refined Storage) dimple
