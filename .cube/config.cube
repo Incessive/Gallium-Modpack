@@ -4,4 +4,4 @@ version: 1.18.2-forge-40.2.4
 width: 1280
 height: 720
 arguments: -Xms4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
-modloader: 
+modloader: forge-1.18.2-40.2.4-installer.jar
